@@ -1,1 +1,1 @@
-#crypto-puzzle-jupyternotebook
+crypto-puzzle-jupyternotebook

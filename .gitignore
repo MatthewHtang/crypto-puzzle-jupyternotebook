@@ -1,0 +1,101 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# IPython
+
+profile_default/
+ipython_config.py
+
+# Virtual environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and databases
+
+*.log
+*.sqlite3
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# PyCharm / IntelliJ
+
+.idea/
+
+# Mac system files
+
+*.swp
+
+# Data files (optional - uncomment if needed)
+
+# data/
+
+# *.csv
+
+# *.xlsx
+
+# Model files (optional - for ML projects)
+
+# *.h5
+
+# *.pt
+
+# *.pth
+
+# *.ckpt
+
+# Environment variables
+
+.env
+
+# Temporary files
+
+*.tmp
+*.bak
+*.cache
+
+# Matplotlib cache
+
+.matplotlib/
+
+# Jupyter Notebook metadata (optional cleanup tools may handle this)
+
+*.nbconvert.ipynb
+
+coded_correspondence_solutions.ipynb
+
